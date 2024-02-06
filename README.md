@@ -16,7 +16,9 @@ Imagine the possibilities! From creating tailored and enhanced answers, RAG open
 
 Let's jump in the solution and hands-on! :)
 
+[llm_w_rag_using_langchain.ipynb](https://github.com/allansuzuki/LLM_RAG_model/blob/main/llm_w_rag_using_langchain.ipynb)
+
 ------
-**Páginas pessoais:**
+**Personal pages:**
 * [LinkedIn](https://www.linkedin.com/in/allanysuzuki/)
-* [Portfólio Completo](https://github.com/allansuzuki/portfolio)
+* [Portfolio Complete](https://github.com/allansuzuki/portfolio)
